@@ -1,6 +1,7 @@
 package benchmark
 
 import (
+	"github.com/murInJ/bucketQueue"
 	"testing"
 )
 
