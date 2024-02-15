@@ -5,6 +5,7 @@
   <div>&nbsp;</div>
   <div align="center">
     <font size="5"><b>Bucket Queue</font>
+   </div>
 </div>
 
 bucket queue is a data structure designed to meet the needs of a specific application scenario.
