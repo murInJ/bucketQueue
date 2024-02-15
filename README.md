@@ -9,12 +9,16 @@ The design objective is to facilitate one-time processing of elements with the s
 
 
 
+
+
 <div id="top" align="center">
   <img src="assert\image\struct.png" width="500px"/>
   <div>&nbsp;</div>
   <div align="center">
     <font size="5"><b>Bucket Queue</font>
   </div>
+
+
 
 
 
