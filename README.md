@@ -7,6 +7,13 @@ This allows elements to be efficiently queued out in buckets, ensuring that each
 
 The design objective is to facilitate one-time processing of elements with the same label in scenarios with localized optimization needs, while avoiding potential starvation problems caused by direct storage.
 
+<div id="top" align="center">
+  <img src="assert\image\struct.png" width="500px"/>
+  <div>&nbsp;</div>
+  <div align="center">
+    <font size="5"><b>Bucket Queue</font>
+  </div>
+
 For an intuitive understanding of bucket queues, consider the following input/output example (with a bucket capacity of 4).
 > Input element label:
 > 
